@@ -184,7 +184,7 @@ Install the following tools:
 Replace the placeholder URL with your actual GitHub repository URL.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mern-cicd-backend.git
+git clone https://github.com/ajinkya029/cicd-backend.git
 cd cicd-backend
 ```
 
